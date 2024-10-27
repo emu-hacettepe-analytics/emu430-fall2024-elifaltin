@@ -70,7 +70,7 @@
     "href": "assignments/assignment-1.html#a",
     "title": "Assignment 1",
     "section": "(a)",
-    "text": "(a)",
+    "text": "(a)\nSummary:\nMustafa Gokce Baydogan, the founder of Algopoly and an industrial engineer, shared his career experiences and emphasized the importance of data science, modeling, and optimization in his company. He highlighted the need to analyze data before building models, mentioning projects like shoe sales forecasting and wood warping during the drying process. In these projects, he used image data and applied linear regression to achieve higher-quality products. He also discussed the challenges of balancing supply and demand in the electricity market, the recommendation algorithms at Trendyol, and how machine learning can be applied to optimization.\n1.According to Mustafa Gokce Baydogan, how does machine learning contribute to optimization processes?\nA) By visualizing data.\nB) By having the potential to improve optimization techniques.\nC) By enabling faster data collection.\nD) By directly reducing costs.\nanswer: B\nIn the wood warping project, what method did Baydogan use to achieve higher-quality products?\nA) Linear regression and image analysis.\nB) Clustering analysis.\nC) Neural networks.\nD) Time series analysis.\nanswer: A",
     "crumbs": [
       "Assignment 1"
     ]
