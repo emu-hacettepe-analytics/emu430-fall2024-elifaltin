@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Welcome to My Analytics Lab",
     "section": "",
-    "text": "Hello! My name is Elif Altin.\nThis is my personal webpage.\nPlease stay tuned to follow my works on data analytics, blog posts, and more.\nThis is our template.\n\n\n\n Back to top"
+    "text": "website: title: “[Elif Altin]’s Analytics Lab”\n\nHello! My name is Elif Altin.\nThis is my personal webpage.\nPlease stay tuned to follow my works on data analytics, blog posts, and more.\nThis is our template.\n\n\n\n Back to top"
   },
   {
     "objectID": "assignments/assignment-2.html",
@@ -25,7 +25,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Education\n\nB.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - ongoing.\n\n\n\nExchange Program\nCasa Del Cabo Restaurant, Kitchen Helper, USA, Summer 2024\n\n\nInternships\n1.DenizBank, Online Intern, 2022\n\n\nStudent Community\nHacettepe University Venture and Investment Community Administrative Board Member of Organization Unit , 2021-2023\n\n\nCompetencies\nPython, R, Git, AutoCAD, MS Office, Matlab\n\n\nLanguages\nTurkish, English, Turkish Sign Language\n\n\nHobbies\nTravelling, Learning new languages, Exploring new tastes\n\n\n\n\n Back to top"
+    "text": "website: title: “[Elif Altin]’s Analytics Lab”\n\n\nEducation\n\nB.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - ongoing.\n\n\n\nExchange Program\nCasa Del Cabo Restaurant, Kitchen Helper, USA, Summer 2024\n\n\nInternships\n1.DenizBank, Online Intern, 2022\n\n\nStudent Community\nHacettepe University Venture and Investment Community Administrative Board Member of Organization Unit , 2021-2023\n\n\nCompetencies\nPython, R, Git, AutoCAD, MS Office, Matlab\n\n\nLanguages\nTurkish, English, Turkish Sign Language\n\n\nHobbies\nTravelling, Learning new languages, Exploring new tastes\n\n\n\n\n Back to top"
   },
   {
     "objectID": "about.html#employements",
@@ -60,7 +60,7 @@
     "href": "posts.html",
     "title": "My Blog",
     "section": "",
-    "text": "This page is under construction.\n\n\n\n Back to top"
+    "text": "website: title: “[Elif Altin]’s Analytics Lab”\n\nThis page is under construction.\n\n\n\n Back to top"
   },
   {
     "objectID": "assignments/assignment-1.html#a",

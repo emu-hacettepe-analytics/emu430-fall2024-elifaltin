@@ -3,25 +3,34 @@ title: "About Me"
 sidebar: false 
 ---
 
+website:
+  title: "[Elif Altin]'s Analytics Lab"
+---
+
 # Education
 
 -   B.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - ongoing.
 
 # Exchange Program
+
 Casa Del Cabo Restaurant, Kitchen Helper, USA, Summer 2024
 
 # Internships
+
 1.DenizBank, Online Intern, 2022
 
 # Student Community
-Hacettepe University Venture and Investment  Community 
-Administrative Board Member of Organization Unit , 2021-2023
+
+Hacettepe University Venture and Investment Community Administrative Board Member of Organization Unit , 2021-2023
 
 # Competencies
+
 Python, R, Git, AutoCAD, MS Office, Matlab
 
-# Languages 
+# Languages
+
 Turkish, English, Turkish Sign Language
 
 # Hobbies
+
 Travelling, Learning new languages, Exploring new tastes
