@@ -2,9 +2,6 @@
 title: "Welcome to My Analytics Lab"
 sidebar: false 
 ---
-website:
-  title: "[Elif Altin]'s Analytics Lab"
----
 
 Hello! My name is Elif Altin.
 

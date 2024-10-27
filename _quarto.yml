@@ -21,8 +21,6 @@ website:
             href: project.qmd
             
     tools:
-      - icon: github
-        href: https://twitter.com
       - icon: instagram
         href: https://www.instagram.com/altneelif/
       - icon: linkedin

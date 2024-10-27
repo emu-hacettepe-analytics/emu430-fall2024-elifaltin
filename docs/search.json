@@ -4,14 +4,14 @@
     "href": "project.html",
     "title": "Our Course Project",
     "section": "",
-    "text": "I’m honored to be a member of the [group name] project team.\nBelow, you’ll find a brief summary of our project. To access a detailed project description, please go to https://[your-project-url].\nSummary\n[provide a biref summary of your project]\n\n\n\n Back to top"
+    "text": "I don’t have any project.\n\n\n\n Back to top"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome to My Analytics Lab",
     "section": "",
-    "text": "website: title: “[Elif Altin]’s Analytics Lab”\n\nHello! My name is Elif Altin.\nThis is my personal webpage.\nPlease stay tuned to follow my works on data analytics, blog posts, and more.\nThis is our template.\n\n\n\n Back to top"
+    "text": "Hello! My name is Elif Altin.\nThis is my personal webpage.\nPlease stay tuned to follow my works on data analytics, blog posts, and more.\nThis is our template.\n\n\n\n Back to top"
   },
   {
     "objectID": "assignments/assignment-2.html",
@@ -25,7 +25,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "website: title: “[Elif Altin]’s Analytics Lab”\n\n\nEducation\n\nB.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - ongoing.\n\n\n\nExchange Program\nCasa Del Cabo Restaurant, Kitchen Helper, USA, Summer 2024\n\n\nInternships\n1.DenizBank, Online Intern, 2022\n\n\nStudent Community\nHacettepe University Venture and Investment Community Administrative Board Member of Organization Unit , 2021-2023\n\n\nCompetencies\nPython, R, Git, AutoCAD, MS Office, Matlab\n\n\nLanguages\nTurkish, English, Turkish Sign Language\n\n\nHobbies\nTravelling, Learning new languages, Exploring new tastes\n\n\n\n\n Back to top"
+    "text": "Education\n\nB.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - ongoing.\n\n\n\nExchange Program\nCasa Del Cabo Restaurant, Kitchen Helper, USA, Summer 2024\n\n\nInternships\n1.DenizBank, Online Intern, 2022\n\n\nStudent Community\nHacettepe University Venture and Investment Community Administrative Board Member of Organization Unit , 2021-2023\n\n\nCompetencies\nPython, R, Git, AutoCAD, MS Office, Matlab\n\n\nLanguages\nTurkish, English, Turkish Sign Language\n\n\nHobbies\nTravelling, Learning new languages, Exploring new tastes\n\n\n\n\n Back to top"
   },
   {
     "objectID": "about.html#employements",
@@ -53,14 +53,17 @@
     "href": "assignments.html",
     "title": "My Assignments",
     "section": "",
-    "text": "On this page, I showcase the assignment I conducted for the [term and year, e.g. Fall 2023] EMU 430 Data Analytics course.\nPlease use left menu to navigate through my assignments.\nThe most recent update to this page was made on October 25, 2023\n\n\n\n Back to top"
+    "text": "On this page, I showcase the assignment I conducted for the [term and year, e.g. Fall 2024] EMU430 Data Analytics course.\nPlease use left menu to navigate through my assignments.\nThe most recent update to this page was made on October 10, 2024\n\n\n\n Back to top",
+    "crumbs": [
+      "My Assignments"
+    ]
   },
   {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "My Blog",
     "section": "",
-    "text": "website: title: “[Elif Altin]’s Analytics Lab”\n\nThis page is under construction.\n\n\n\n Back to top"
+    "text": "This page is under construction.\n\n\n\n Back to top"
   },
   {
     "objectID": "assignments/assignment-1.html#a",

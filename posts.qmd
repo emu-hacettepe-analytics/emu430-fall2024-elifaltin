@@ -2,8 +2,5 @@
 title: "My Blog"
 sidebar: false 
 ---
-website:
-  title: "[Elif Altin]'s Analytics Lab"
----
 
 This page is under construction.
